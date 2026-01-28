@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Antonio 
 
-<!--
-**talkzyn/talkzyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de tecnologia e desenvolvedor em formação, focado em **desenvolvimento front-end, mobile e qualidade de software (QA)**.  
+Gosto de transformar ideias em soluções práticas, bem estruturadas e com foco em usabilidade e qualidade.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias & Ferramentas
+
+### 💻 Desenvolvimento
+- **React.js**
+- **React Native**
+- **JavaScript / TypeScript**
+- **REST APIs**
+- **Postman**
+
+### 🗄️ Banco de Dados
+- **SQL**
+- Modelagem de dados
+- Consultas, joins e normalização
+
+### 🧩 Engenharia de Software
+- **UML** (Casos de uso, diagramas de classe e fluxo)
+- Organização e documentação de projetos
+
+### 🧪 Qualidade de Software (QA)
+- Testes manuais
+- Testes de API
+- Validação de regras de negócio
+- Análise de requisitos
+
+---
+
+## 📚 O que estou estudando atualmente
+- Arquitetura de aplicações
+- Integração Front-end ↔ Back-end
+- Boas práticas em APIs REST
+- Automação de testes 
